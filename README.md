@@ -1,9 +1,5 @@
-<img src="avatar-loop.gif" width="96" height="96" align="left" hspace="16" alt="A small builder in a cream helmet with a dark visor. It floats under a night sky, blinks, and its antenna light glows.">
-
 **Amad**, building at night.<br>
 I build AI agents and the tools they work in: shared memory, live maps, and CRMs where people and agents work side by side.
-
-<br clear="left">
 
 ## Projects
 
