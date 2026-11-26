@@ -1,4 +1,3 @@
-**Amad**, building at night.<br>
 I build AI agents and the tools they work in: shared memory, live maps, and CRMs where people and agents work side by side.
 
 ## Projects
